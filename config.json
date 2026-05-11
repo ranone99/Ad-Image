@@ -1,6 +1,6 @@
 {
   "cyber": {
-    "enabled": false,
+    "enabled": true,
     "text": "قريباً",
     "image": "img/w.png"
   },
@@ -16,9 +16,9 @@
     "imageUrl": "https://example.com/icon.png"
   },
   "popupConfig": {
-    "showPopup": true, 
+    "showPopup": false, 
     "message": "هذا إشعار جديد من السيرفر!",
-    "showUpdateBtn": true
+    "showUpdateBtn": false
   }
 }
 }
