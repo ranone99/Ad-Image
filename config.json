@@ -1,11 +1,11 @@
 {
   "cyber": {
-    "enabled": true,
+    "enabled": false,
     "text": "سايبر قريباً",
     "image": "img/w.png"
   },
   "bushra": {
-    "enabled": false,
+    "enabled": true,
     "text": "بشرى قريباً",
     "image": "img/w.png"
   },
