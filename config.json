@@ -1,22 +1,22 @@
 {
   "cyber": {
-    "enabled": true,
+    "enabled": false,
     "text": "قريباً",
     "image": "img/w.png"
   },
   "bushra": {
-    "enabled": false,
+    "enabled": true,
     "text": "قريباً",
     "image": "img/w.png"
   },
   "buttonConfig": {
     "text": "الزر الرئيسي",
-    "isEnabled": true,
+    "isEnabled": false,
     "imageUrl": "https://example.com/icon.png"
   },
   "popupConfig": {
-    "showPopup": false,
+    "showPopup": true,
     "message": "هذا إشعار جديد من السيرفر!",
-    "showUpdateBtn": true
+    "showUpdateBtn": ture
   }
 }
