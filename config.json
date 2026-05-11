@@ -1,6 +1,6 @@
 {
   "cyber": {
-    "enabled": false,
+    "enabled": true,
     "text": "قريباً",
     "image": "img/w.png"
   },
