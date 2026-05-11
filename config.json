@@ -1,0 +1,12 @@
+{
+  "cyber": {
+    "enabled": true,
+    "text": "قريباً",
+    "image": "img/w.png"
+  },
+  "bushra": {
+    "enabled": true,
+    "text": "قريباً",
+    "image": "img/w.png"
+  }
+}
