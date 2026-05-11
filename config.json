@@ -9,10 +9,10 @@
     "text": "بشرى قريباً",
     "image": "img/w.png"
   },
-  "buttonConfig": {
-    "text": "الزر الرئيسي",
-    "isEnabled": true,
-    "imageUrl": "https://example.com/icon.png"
+  "linkConfig": {
+    "enabled": true,
+    "text": "اضغط لزيارة موقعنا",
+    "url": "https://www.google.com"
   },
   "popupConfig": {
     "showPopup": true,
