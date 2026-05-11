@@ -8,5 +8,17 @@
     "enabled": false,
     "text": "قريباً",
     "image": "img/w.png"
+  },
+  {
+  "buttonConfig": {
+    "text": "الزر الرئيسي",
+    "isEnabled": true,
+    "imageUrl": "https://example.com/icon.png"
+  },
+  "popupConfig": {
+    "showPopup": true, 
+    "message": "هذا إشعار جديد من السيرفر!",
+    "showUpdateBtn": true
   }
+}
 }
