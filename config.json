@@ -5,7 +5,7 @@
     "image": "https://raw.githubusercontent.com/ranone99/Ad-Image/refs/heads/main/ad.jpg"
   },
   "bushra": {
-    "enabled": false,
+    "enabled": true,
     "text": "قريباً",
     "image": "img/w.png"
   }
