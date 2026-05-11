@@ -1,22 +1,22 @@
 {
   "cyber": {
-    "enabled": false,
-    "text": "قريباً",
+    "enabled": true,
+    "text": "سايبر قريباً",
     "image": "img/w.png"
   },
   "bushra": {
-    "enabled": true,
-    "text": "قريباً",
+    "enabled": false,
+    "text": "بشرى قريباً",
     "image": "img/w.png"
   },
   "buttonConfig": {
     "text": "الزر الرئيسي",
-    "isEnabled": false,
+    "isEnabled": true,
     "imageUrl": "https://example.com/icon.png"
   },
   "popupConfig": {
-    "showPopup": false,
-    "message": "هذا إشعار جديد من السيرفر!",
+    "showPopup": true,
+    "message": "مرحباً بك في تحديث بنوكي الجديد!",
     "showUpdateBtn": false
   }
 }
