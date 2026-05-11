@@ -15,8 +15,8 @@
     "imageUrl": "https://example.com/icon.png"
   },
   "popupConfig": {
-    "showPopup": true,
+    "showPopup": false,
     "message": "هذا إشعار جديد من السيرفر!",
-    "showUpdateBtn": ture
+    "showUpdateBtn": false
   }
 }
