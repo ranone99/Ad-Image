@@ -5,12 +5,12 @@
     "image": "img/w.png"
   },
   "bushra": {
-    "enabled": true,
+    "enabled": false,
     "text": "بشرى قريباً",
     "image": "img/w.png"
   },
   "linkConfig": {
-    "enabled": true,
+    "enabled": false,
     "text": "متوفر تحديث جديد للتطبيق",
     "url": "https://www.google.com"
   },
@@ -20,7 +20,7 @@
     "showUpdateBtn": false
   },
   "newFeature": {
-    "enabled": true,
+    "enabled": false,
     "htmlCode": "<div style='background: #ffeeba; padding: 15px; border-radius: 10px; border: 1px solid #ffc107;'> <h5>⚠️ تنبيه هام</h5> <p>متوفر تحديث جديد للتطبيق يضيف ميزات هامة</p> <button class='btn btn-warning btn-sm'>اضغط للتفاصيل</button> </div>"
   }
 }
