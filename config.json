@@ -11,12 +11,16 @@
   },
   "linkConfig": {
     "enabled": true,
-    "text": "متوفر تحديث جديد للتطبيق اضغط للتنزيل",
+    "text": "متوفر تحديث جديد للتطبيق",
     "url": "https://www.google.com"
   },
   "popupConfig": {
-    "showPopup": true,
+    "showPopup": false,
     "message": "مرحباً بك في تحديث بنوكي الجديد!",
     "showUpdateBtn": false
+  },
+  "newFeature": {
+    "enabled": true,
+    "htmlCode": "<div style='background: #ffeeba; padding: 15px; border-radius: 10px; border: 1px solid #ffc107;'> <h5>⚠️ تنبيه هام</h5> <p>هذا العنصر تم إضافته ديناميكياً من ملف JSON دون تعديل ملف الـ HTML الأصلي!</p> <button class='btn btn-warning btn-sm'>اضغط للتفاصيل</button> </div>"
   }
 }
