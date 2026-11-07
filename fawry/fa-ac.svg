@@ -22,27 +22,27 @@
       }
 
       .cls-5 {
-        fill: #f3e8ff;
+        fill: #f2eeff;
       }
     </style>
     <radialGradient id="radial-gradient" cx="256" cy="-4948.75" fx="256" fy="-4948.75" r="200.83" gradientTransform="translate(0 2652.6) scale(1 .45)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#9333ea" stop-opacity=".6" />
-      <stop offset="1" stop-color="#9333ea" stop-opacity="0" />
+      <stop offset="0" stop-color="#6f2efe" stop-opacity=".6" />
+      <stop offset="1" stop-color="#6f2efe" stop-opacity="0" />
     </radialGradient>
     <linearGradient id="linear-gradient" x1="342.22" y1="423.89" x2="169.49" y2="251.16" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#7e22ce" />
-      <stop offset=".54" stop-color="#9333ea" />
-      <stop offset="1" stop-color="#d8b4fe" />
+      <stop offset="0" stop-color="#6f2efe" />
+      <stop offset=".52" stop-color="#6f2efe" />
+      <stop offset="1" stop-color="#ae90ff" />
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="311.04" y1="222.93" x2="197.62" y2="109.51" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#a855f7" />
-      <stop offset=".51" stop-color="#b86fe8" />
-      <stop offset="1" stop-color="#e9d5ff" />
+      <stop offset="0" stop-color="#6f2efe" />
+      <stop offset=".52" stop-color="#6f2efe" />
+      <stop offset="1" stop-color="#ae90ff" />
     </linearGradient>
     <linearGradient id="linear-gradient-3" x1="370.35" y1="407.13" x2="308.9" y2="345.69" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#3b0764" />
-      <stop offset=".54" stop-color="#4c1d95" />
-      <stop offset="1" stop-color="#7c3aed" />
+      <stop offset="0" stop-color="#34344f" />
+      <stop offset=".54" stop-color="#353551" />
+      <stop offset="1" stop-color="#666684" />
     </linearGradient>
   </defs>
   <path class="cls-5" d="m496.52,129.85c-13.43-49.48-64.89-100.93-114.37-114.37C351.81,7.92,311.17.13,256,0c-55.17.14-95.81,7.92-126.15,15.49C80.38,28.92,28.92,80.37,15.48,129.85,7.92,160.19.13,200.83,0,256c.14,55.17,7.92,95.81,15.49,126.15,13.44,49.48,64.89,100.93,114.37,114.37,30.34,7.57,70.98,15.35,126.15,15.49,55.16-.14,95.81-7.92,126.15-15.49,49.48-13.44,100.93-64.89,114.37-114.37,7.57-30.33,15.35-70.98,15.49-126.15-.14-55.17-7.92-95.81-15.49-126.15Z" />
