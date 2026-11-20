@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <!-- تدرج لوني بنفسجي غامق واحترافي للخلفية -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d28d9" />
+      <stop offset="55%" stop-color="#4c1d95" />
+      <stop offset="100%" stop-color="#2e1065" />
+    </linearGradient>
+
+    <!-- تدرج لبني ناعم للأيقونة -->
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e0f2fe" />
+      <stop offset="100%" stop-color="#7dd3fc" />
+    </linearGradient>
+
+    <!-- ظل خفيف لإبراز الأيقونة -->
+    <filter id="softShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="#1e1b4b" flood-opacity="0.4" />
+    </filter>
+  </defs>
+
+  <!-- الخلفية المربعة الناعمة المتدرجة -->
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="url(#bgGrad)" />
+  <rect x="2.5" y="2.5" width="59" height="59" rx="17.5" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="1" />
+
+  <!-- أيقونة خدمة العملاء والدعم (سماعة + ذراع ميكروفون + نقاط تواصل) -->
+  <g transform="translate(14, 14)" filter="url(#softShadow)">
+    <!-- قوس السماعة العلوي -->
+    <path fill="none" stroke="url(#iconGrad)" stroke-width="3.2" stroke-linecap="round" d="M7 18v-2a11 11 0 0 1 22 0v2" />
+
+    <!-- وسادة السماعة اليسرى -->
+    <rect x="4" y="16" width="5.5" height="9.5" rx="2.75" fill="url(#iconGrad)" />
+
+    <!-- وسادة السماعة اليمنى -->
+    <rect x="26.5" y="16" width="5.5" height="9.5" rx="2.75" fill="url(#iconGrad)" />
+
+    <!-- ذراع الميكروفون وقاعدة التحدث لخدمة العملاء -->
+    <path fill="none" stroke="url(#iconGrad)" stroke-width="2.8" stroke-linecap="round" d="M29.5 25.5c0 4.2-3.4 6.8-8.2 6.8h-2.3" />
+    <circle cx="17" cy="32.3" r="2.3" fill="#bae6fd" />
+
+    <!-- نقاط الدعم / الدردشة أعلى المنتصف -->
+    <circle cx="14.5" cy="17.5" r="1.4" fill="#e0f2fe" />
+    <circle cx="18" cy="17.5" r="1.4" fill="#e0f2fe" />
+    <circle cx="21.5" cy="17.5" r="1.4" fill="#e0f2fe" />
+  </g>
+</svg>
